@@ -36,8 +36,5 @@ describe("Check UI Element", () =>{
         cy.get("input.form-check-input[type='checkbox']").last().check()
 
 
-        //git commit -m "select & unselect:checkbox & radio button "
-      
-
     })
 })
